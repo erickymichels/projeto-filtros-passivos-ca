@@ -1,4 +1,4 @@
-# Projeto e Análise de Crossover Passivo de 2 Vias (2 kHz / 8 Ω)
+# Projeto e análise de Filtros Passivos 
 **Instituição:** Universidade Tecnológica Federal do Paraná (UTFPR) – Campus Pato Branco  
 **Autor:** Éricky Gomes Michels
 **Disciplina:** Circuitos de Corrente Alternada
